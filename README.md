@@ -7,7 +7,7 @@ This is probably the most serious graphic design I've ever done. The story is th
 
 ![](Artisan-Logo.jpg)
 
-This was an unused pixel art sprite-sheet for a HSC SDD major project. However, I had since changed the project idea and this sprite-sheet was never in proper use inside anything. It was originally intended for a "2D Rocket League", but at the time my skill levels were not capable of making such a game. The animation does work though, it is clear the flag moves as if wind were blowing on it. 
+This was an unused pixel art sprite-sheet for a HSC SDD major project. Like all my pixel-art I use Aseprite. However, I had since changed the project idea and this sprite-sheet was never in proper use inside anything. It was originally intended for a "2D Rocket League", but at the time my skill levels were not capable of making such a game. The animation does work though, it is clear the flag moves as if wind were blowing on it. 
 
 ![](Bumper-Cars-Side.png)
 ![](Bumper-Cars-Top.png)
