@@ -12,7 +12,7 @@ This was an unused pixel art sprite-sheet for a HSC SDD major project. Like all 
 ![](Bumper-Cars-Side.png)
 ![](Bumper-Cars-Top.png)
 
-So I've always been a fan of Mortal Kombat and at the end of 2018 when I had seen the out of the blue new game trailer drop, I was pretty hyped enough to actually make some fan-art. This was an original "pixel-art adaptation" of a shot from the trailer. Yes, I did draw every single damn pixel by hand (yes, a mouse).
+So I've always been a fan of Mortal Kombat and at the end of 2018 when I had seen the out of the blue new game trailer drop, I was pretty hyped enough to actually make some fan-art. This was an original "pixel-art adaptation" of a shot from the trailer. Yes, I did draw every single damn pixel by hand (and yes, a mouse).
 
 ![](Scorpion.png)
 
