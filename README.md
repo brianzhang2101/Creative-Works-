@@ -1,5 +1,12 @@
 # Creative-Works-
-In my spare time I enjoy graphic designing. This was my first serious attempt at graphic design in Adobe Illustrator. The logo was made for my father's watch service business and is still in use today.
+
+**Experience**
+Vector designs: Adobe Illustrator
+Pixel art: Aseprite
+Video editing: Adobe Premiere Pro
+Photo editing: Adobe Photoshop (minor experience)
+
+Hello! In my spare time I enjoy graphic designing. This was my first serious attempt at graphic design in Adobe Illustrator. The logo was made for my father's watch service business and is still in use today.
 
 ![](Artisan-Logo.jpg)
 
@@ -39,3 +46,4 @@ I also designed CSESOC's official Halloween display picture, due to the event te
 CSESOC's summer Compclub name tags were based on the unused sticker design above. The theme was "Hack to the future" and I really enjoyed designing the glitch effect so I translated the same design onto the name tag. 
 
 ![](Compclub.png)
+
