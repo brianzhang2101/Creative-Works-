@@ -16,7 +16,7 @@ I joined CSESOC Creative Subcommittee in 2020 and submitted my first design, use
 
 With COVID-19 diminishing the social aspect of uni, the merch team's designs were mostly made redundant for example here was my submission for CSESOC's scavenger hunt, originally to be given out as a prize to winners.
 
-![](Certified_Scavenger.png)
+![](Scavenger.png)
 
 Here was a t-shirt concept.
 
