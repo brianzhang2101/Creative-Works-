@@ -1,6 +1,6 @@
 # Creative-Works-
 
-**Experience**<br/>
+**Software Used and Experience**<br/>
 Vector designs: Adobe Illustrator<br/>
 Pixel art: Aseprite<br/>
 Video editing: Adobe Premiere Pro<br/>
