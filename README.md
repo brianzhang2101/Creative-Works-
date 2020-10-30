@@ -47,3 +47,4 @@ CSESOC's summer Compclub name tags were based on the unused sticker design above
 
 ![](Compclub.png)
 
+I've made some FPS montages before, but they're quite cringe worth, maybe I'll show later hehe.
