@@ -10,7 +10,7 @@ Hello! In my spare time I enjoy graphic designing. This was my first serious att
 
 ![](Artisan-Logo.jpg)
 
-I joined CSESOC Creative Subcommittee in 2020 and submitted my design for the annual hoodie competition. This design came in second place.
+I joined CSESOC Creative Subcommittee in 2020 and submitted my first design, through the annual hoodie competition. This design came in second place.
 
 ![](CPU.png)
 
