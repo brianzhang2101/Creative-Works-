@@ -1,6 +1,6 @@
 # Creative-Works-
 
-**Experience**
+**Experience**<br/>
 Vector designs: Adobe Illustrator<br/>
 Pixel art: Aseprite<br/>
 Video editing: Adobe Premiere Pro<br/>
@@ -39,7 +39,7 @@ CSESOC needed a simplified yet identifiable Event-Coordinator shirt.
 
 ![](Event-Coordinator.png)
 
-I also designed CSESOC's official Halloween display picture, due to the event team being quite full with banner tasks. 
+I also designed CSESOC's official Halloween display picture, due to the event team being quite full with banner tasks. Not sure why people think I made this in Photoshop, I made everything myself in Adobe Illustrator :)
 
 ![](Halloween.png)
 
