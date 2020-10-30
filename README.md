@@ -1,10 +1,10 @@
 # Creative-Works-
 
 **Experience**
-Vector designs: Adobe Illustrator
-Pixel art: Aseprite
-Video editing: Adobe Premiere Pro
-Photo editing: Adobe Photoshop (minor experience)
+Vector designs: Adobe Illustrator<br/>
+Pixel art: Aseprite<br/>
+Video editing: Adobe Premiere Pro<br/>
+Photo editing: Adobe Photoshop (minor experience)<br/>
 
 Hello! In my spare time I enjoy graphic designing. This was my first serious attempt at graphic design in Adobe Illustrator. The logo was made for my father's watch service business and is still in use today.
 
@@ -30,7 +30,7 @@ The subcommittee had been thinking about developing a mascot so here was a pixel
 
 ![](Im-fine.png)
 
-However, my later designs were later used. 
+However, my later designs were later used. <br/>
 Here is one of the 3 stickers released by the merch team to be used throughout the future years (keep an eye out during O-Week :D).
 
 ![](Keycaps.png)
