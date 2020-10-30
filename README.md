@@ -6,7 +6,7 @@ Pixel art: Aseprite<br/>
 Video editing: Adobe Premiere Pro<br/>
 Photo editing: Adobe Photoshop (minor experience)<br/>
 
-Hello! In my spare time I enjoy graphic designing. This was my first serious attempt at graphic design in Adobe Illustrator. The logo was made for my father's watch service business and is still in use today.
+Hello! In my spare time I enjoy graphic designing. This was my first serious attempt at graphic design in Adobe Illustrator. The logo was made for my Dad's watch service business and is still in use today.
 
 ![](Artisan-Logo.jpg)
 
