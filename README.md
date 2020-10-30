@@ -17,7 +17,7 @@ Here was a t-shirt concept.
 
 The subcommittee had been thinking about developing a mascot so here was a pixel-art concept sticker.
 
-![](Really I'm Fine.png)
+![](Really_I'm_Fine.png)
 
 However, my later designs were later used. 
 Here is one of the 3 stickers released by the merch team to be used throughout the future years (keep an eye out during O-Week :D).
