@@ -18,7 +18,7 @@ With COVID-19 diminishing the social aspect of uni, the merch team's designs wer
 
 ![](Scavenger.png)
 
-Here was a t-shirt concept.
+Here was a t-shirt concept. (Edit : This won the 2021 CSESOC Hoodie Design Competition =D)
 
 ![](Constellation.png)
 
